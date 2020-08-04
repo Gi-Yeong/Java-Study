@@ -1,2 +1,6 @@
 # Project exclude paths
 /out/
+
+# Intellij 설정 파일
+.idea
+*.iml
