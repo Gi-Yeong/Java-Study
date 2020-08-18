@@ -16,8 +16,7 @@ public class FunctionExample2 {
                 list) {
             sum += function.applyAsInt(student);
         }
-        double avg = (double) sum / list.size();
-        return avg;
+        return (double) sum / list.size();
     }
 
     public static void main(String[] args) {
