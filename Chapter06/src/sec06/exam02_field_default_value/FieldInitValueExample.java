@@ -10,7 +10,7 @@ public class FieldInitValueExample {
         System.out.println(fieldInitValue.intField);
         System.out.println(fieldInitValue.longField);
 
-        System.out.println(fieldInitValue.booelanField);
+        System.out.println(fieldInitValue.booleanField);
         System.out.println(fieldInitValue.charField);
 
         System.out.println(fieldInitValue.floatField);
